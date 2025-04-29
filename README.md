@@ -111,8 +111,4 @@ I work at the intersection of **experimental biology**, **bioinformatics**, and 
 ## 🧘‍♂️ Fun Facts
 
 - 🪵 Weekend woodworker  
-- 🍳 Experimental chef (no recipes, just vibes)  
-
----
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=DavidAlberto.readme)](https://github.com/DavidAlberto)
+- 🍳 Experimental chef (no recipes, just vibes)
