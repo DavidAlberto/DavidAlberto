@@ -111,4 +111,4 @@ I work at the intersection of **experimental biology**, **bioinformatics**, and 
 ## 🧘‍♂️ Fun Facts
 
 - 🪵 Weekend woodworker  
-- 🍳 Experimental chef (no recipes, just vibes)
+- 🍳 Experimental chef
